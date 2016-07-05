@@ -155,7 +155,7 @@ var education = {
 	{
 		"title": "Introduction to Computer Science",
 		"school": "Udacity",
-		"date":  "June 2016"
+		"date":  "June 2016",
 		"url": "https://www.udacity.com/course/intro-to-computer-science--cs101"
 	}
 	]
